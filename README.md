@@ -2,17 +2,17 @@
   <h1 align="center">✧ i know that i know nothing ✧ </h1>
 </div>
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fescolaconquer.com.br%2Fblog%2Fevolucao-na-educacao%2F&psig=AOvVaw0Io9FXVSaHtXdYssWXCJHZ&ust=1647711860460000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjF2aOb0PYCFQAAAAAdAAAAABAJ">
+<img src="https://escolaconquer.com.br/blog/wp-content/uploads/2021/12/Aprendendo.gif">
 </div>
 
 <div>
   <div>
 <h2 align="center"> - - - About me - - -</h2>
  
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fpt%2Fvideo%2Fclip-1041098248-nymph-figure-sculpture-statue-4k&psig=AOvVaw1WDpghxHx3-Md0QXkMt4Vk&ust=1647711617181000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCa-rKa0PYCFQAAAAAdAAAAABAD" height="390" width="400" align="right">
+<img src="https://ak.picdn.net/shutterstock/videos/15475267/thumb/1.jpg?ip=x480" height="390" width="400" align="right">
   <br>
   <p>hello, my name is joão marcus, an apprentice in programming, mainly focused on web development and its variations.  </p>
-  <p>A maioria dos projetos deste perfil são trabalhos de um hobby (ou serão), pastas com tag pw ou pam são do curso da instituição etec dr demetrio de azevedo</p> 
+  <p>Most of the projects in this profile are hobby works (or will be), pasta with pw or pam tag are from the course of the institution etec dr demetrio de azevedo</p> 
   <p>To conclude, I leave my considerations to my greatest teachers: Sócrates and Danilo dias</p>
 </div>
 
@@ -43,7 +43,7 @@
 <hr>
 
 <div align="center">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/joaomarcus789/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="mailto:joaomarcusitapeva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://github.com/JoaoMelo123"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
