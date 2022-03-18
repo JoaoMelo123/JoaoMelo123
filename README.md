@@ -36,7 +36,7 @@
 <div align="center">
   <a href="https://github.com/JoaoMelo123">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoMelo123&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaFernandaSSO&theme=omni&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMelo123&theme=omni&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -44,10 +44,10 @@
 
 <div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="mailto:mariafernandasso281@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://github.com/MariaFernandaSSO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  <a href="mailto:joaomarcusitapeva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://github.com/JoaoMelo123"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
- <a href"#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
+ 
 </div>
 
 <div align="center">
@@ -56,5 +56,5 @@
   
 </div>
 
-<p align="center">✧ 𝒪 𝓂ℯ𝓁𝒽ℴ𝓇 𝒹ℯ 𝓂𝒾𝓂, 𝒹ℯ𝒹𝒾𝒸ℴ 𝒶 𝓂𝒾𝓂 𝓂ℯ𝓈𝓂𝒶 ✧</p>
+<p align="center">✧ Um verdadeiro mestre é um eterno aprendiz ✧</p>
 
