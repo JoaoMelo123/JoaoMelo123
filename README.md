@@ -56,5 +56,5 @@
   
 </div>
 
-<p align="center">✧ Um verdadeiro mestre é um eterno aprendiz ✧</p>
+<p align="center">✧ A true master is an eternal apprentice ✧</p>
 
