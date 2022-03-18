@@ -9,7 +9,7 @@
   <div>
 <h2 align="center"> - - - About me - - -</h2>
  
-<img src="https://ak.picdn.net/shutterstock/videos/15475267/thumb/1.jpg?ip=x480" height="390" width="400" align="right">
+<img src="https://media.istockphoto.com/photos/classical-statue-of-socrates-at-academy-of-athens-picture-id960679800?k=20&m=960679800&s=170667a&w=0&h=98kWqzNhjba5xWQl5l3Z24nC7xtGe7VvR-HnOnh_dXA=" height="390" width="400" align="right">
   <br>
   <p>hello, my name is joão marcus, an apprentice in programming, mainly focused on web development and its variations.  </p>
   <p>Most of the projects in this profile are hobby works (or will be), pasta with pw or pam tag are from the course of the institution etec dr demetrio de azevedo</p> 
